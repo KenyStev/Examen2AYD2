@@ -1,0 +1,24 @@
+c:\users\david chavarria\documents\visual studio 2015\Projects\StringCalculator\StringCalculator.Spec\bin\Debug\StringCalculator.Spec.dll.config
+c:\users\david chavarria\documents\visual studio 2015\Projects\StringCalculator\StringCalculator.Spec\bin\Debug\StringCalculator.Spec.dll
+c:\users\david chavarria\documents\visual studio 2015\Projects\StringCalculator\StringCalculator.Spec\bin\Debug\StringCalculator.Spec.pdb
+c:\users\david chavarria\documents\visual studio 2015\Projects\StringCalculator\StringCalculator.Spec\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\david chavarria\documents\visual studio 2015\Projects\StringCalculator\StringCalculator.Spec\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\david chavarria\documents\visual studio 2015\Projects\StringCalculator\StringCalculator.Spec\obj\Debug\StringCalculator.Spec.csprojResolveAssemblyReference.cache
+c:\users\david chavarria\documents\visual studio 2015\Projects\StringCalculator\StringCalculator.Spec\obj\Debug\StringCalculator.Spec.dll
+c:\users\david chavarria\documents\visual studio 2015\Projects\StringCalculator\StringCalculator.Spec\obj\Debug\StringCalculator.Spec.pdb
+C:\Users\David Chavarria\Documents\Visual Studio 2015\Projects\StringCalculator\StringCalculator.Spec\bin\Debug\Castle.Core.dll
+C:\Users\David Chavarria\Documents\Visual Studio 2015\Projects\StringCalculator\StringCalculator.Spec\bin\Debug\Moq.dll
+C:\Users\David Chavarria\Documents\Visual Studio 2015\Projects\StringCalculator\StringCalculator.Spec\bin\Debug\Castle.Core.xml
+C:\Users\David Chavarria\Documents\Visual Studio 2015\Projects\StringCalculator\StringCalculator.Spec\bin\Debug\Moq.xml
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\bin\Debug\StringCalculator.Spec.dll.config
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\bin\Debug\StringCalculator.Spec.dll
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\bin\Debug\StringCalculator.Spec.pdb
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\bin\Debug\Castle.Core.dll
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\bin\Debug\Moq.dll
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\bin\Debug\Castle.Core.xml
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\bin\Debug\Moq.xml
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\obj\Debug\StringCalculator.Spec.csprojResolveAssemblyReference.cache
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\obj\Debug\StringCalculator.Spec.dll
+C:\Users\Kenystev\Downloads\StringCalculator-SegundoPar\StringCalculator.Spec\obj\Debug\StringCalculator.Spec.pdb
